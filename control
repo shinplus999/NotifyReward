@@ -1,0 +1,9 @@
+Package: com.notifyreward.tweak
+Name: NotifyReward
+Version: 1.0.0
+Section: Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Author: NotifyReward
+Maintainer: NotifyReward
+Description: By Shinx999
